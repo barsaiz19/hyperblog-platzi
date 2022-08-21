@@ -1,1 +1,3 @@
 Hola soy Baruc
+
+Soy de México y quiero ser desarrollador Fullstack
